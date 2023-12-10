@@ -67,7 +67,7 @@ Follow these steps to get the project running on your local machine.
 2. **Navigate to the project directory:**
 
    ```bash
-   cd stock-price-prediction
+   cd  BiEther_Forecast
 
 3. **Install dependencies:**
 
