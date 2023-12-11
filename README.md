@@ -104,6 +104,9 @@ These models are trained on historical stock data to predict future closing pric
 ## CSV Records
 
 
+![Screenshot from 2023-12-11 14-00-27](https://github.com/Gokulachalam/BitEther_Forecast/assets/89055461/ae5b9316-c77d-444c-9b5e-a416168c9054)
+
+
 
 
 
@@ -115,8 +118,9 @@ These models are trained on historical stock data to predict future closing pric
 
 
 
+## Prediction
 
-
+![Screenshot from 2023-12-11 13-59-19](https://github.com/Gokulachalam/BitEther_Forecast/assets/89055461/ab58eb59-7d02-4c82-9b7c-429056c1698a)
 
 
 
