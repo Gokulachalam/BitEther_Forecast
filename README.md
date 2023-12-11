@@ -100,6 +100,26 @@ The application uses an ensemble of machine learning models, including:
 
 These models are trained on historical stock data to predict future closing prices.
 
+
+## CSV Records
+
+
+
+
+
+
+## Parameter Inputs
+
+![Screenshot from 2023-12-11 13-59-19](https://github.com/Gokulachalam/BitEther_Forecast/assets/89055461/c96a7a5e-d1b0-4661-8cb7-e67dd10cd0da)
+
+
+
+
+
+
+
+
+
 Contributing
 Feel free to contribute to the project. If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
 
