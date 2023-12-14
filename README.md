@@ -5,11 +5,13 @@ This web application predicts stock prices based on historical data using machin
 
 ## Demo
 
-A live demo of the application is available at [Demo Link](https://main--heroic-tanuki-a5b9fe.netlify.app/).
+
 
 
 
 /BitEther_Forecast
+
+
 |-- app.py
 |-- requirements.txt
 |-- templates/
