@@ -5,6 +5,7 @@ This web application predicts stock prices based on historical data using machin
 
 ## Demo
 
+![BiEther_demo](https://github.com/Gokulachalam/BitEther_Forecast/assets/89055461/0ba4c23d-9b4d-4d40-b3a1-b4aea4484941)
 
 
 
