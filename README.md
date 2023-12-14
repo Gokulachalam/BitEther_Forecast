@@ -12,14 +12,24 @@ This web application predicts stock prices based on historical data using machin
 
 |-- app.py
 |-- requirements.txt
+
+
 |-- templates/
 |   |-- index.html
+
+
 |-- static/
 |   |-- style.css
+
+
 |-- data/
 |   |-- ETH-BTC-USD.csv
+
+
 |-- models/
 |   |-- trained_model.pkl
+
+
 |-- README.md
 |-- .gitignore
 |-- netlify.toml
